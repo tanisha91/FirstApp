@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Security</string>
+    <string name="pinktext">In Case of emergency,keep tolling family members. I am very happy to continue with it</string>
+    <string name="greentext">Open when you are on potential dangerous journey</string>
+    <string name="my_family">My Family</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

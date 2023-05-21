@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:icon="@drawable/round_home_24"
+         android:id="@+id/dash_board"/>
+
+    <item android:title="Dashboard"
+        android:icon="@drawable/round_dashboard_24"
+        android:id="@+id/das_home"/>
+
+    <item android:title="Guard"
+        android:icon="@drawable/round_theater_comedy_24"
+        android:id="@+id/guard_home"/>
+    <item android:title="Profile"
+        android:icon="@drawable/round_person_2_24"
+        android:id="@+id/pro_home"/>
+</menu>
